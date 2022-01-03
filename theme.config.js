@@ -15,7 +15,7 @@ export default {
   prevLinks: true,
   search: true,
   customSearch: null, // customizable, you can use algolia for example
-  darkMode: true,
+  darkMode: false,
   footer: true,
   footerText: `${new Date().getFullYear()} © BeeSocial. All rights reserved.`,
   logo: (
