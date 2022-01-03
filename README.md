@@ -1,4 +1,6 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+This is the documentation for [BeeSocial](https://beesocial.io), a social media automation tool for Zoom.
+
+![BeeSocial logo — social media automation for Zoom](https://docs.beesocial.io/images/logo.png)
 
 ## Getting Started
 

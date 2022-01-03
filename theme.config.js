@@ -4,6 +4,9 @@ const meta = {
     "Don't waste time searching on social media or forget to follow up. Automatically connect to those that joined your call on Twitter or LinkedIn.",
 };
 
+import Image from "next/image";
+import logoSrc from "./public/images/logo.png";
+
 export default {
   //   projectLink: "https://github.com/shuding/nextra", // GitHub link in the navbar
   docsRepositoryBase: "https://github.com/dbredvick/beesocial-docs/blob/main", // base URL for the docs repository
@@ -17,8 +20,7 @@ export default {
   footerText: `${new Date().getFullYear()} © BeeSocial. All rights reserved.`,
   logo: (
     <>
-      <svg>...</svg>
-      <span>BeeSocialLogoHere</span>
+      <Image src={logoSrc} width="200" height="89" />
     </>
   ),
   head: (
