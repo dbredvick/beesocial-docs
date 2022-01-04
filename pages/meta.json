@@ -1,7 +1,9 @@
 {
-  "index": "Getting started",
+  "index": "Installation",
   "twitter": "Connecting Twitter to Zoom",
   "linkedin": "Connecting LinkedIn to Zoom",
   "account": "Managing your account",
-  "teams": "Managing your team"
+  "teams": "Managing your team",
+  "uninstall": "Uninstallation",
+  "contact": "Contact support"
 }
